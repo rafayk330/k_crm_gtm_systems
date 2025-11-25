@@ -142,19 +142,19 @@ Dashboard-facing semantic model powering revenue analytics, product insights, ma
 
 # Core Capabilities in This Repo
 
-### ✓ **Warehouse-Native ETL/ELT (BigQuery + GCP Orchestration)**
+### 1. **Warehouse-Native ETL/ELT (BigQuery + GCP Orchestration)**
 Scheduled queries + Cloud Composer DAGs to transform GTM data cleanly and reliably.
 
-### ✓ **Data Governance & Quality**
+### 2. **Data Governance & Quality**
 Field definitions, naming standards, audit rules, tests, and PII handling.
 
-### ✓ **GTM Automation Logic**
+### 3. **GTM Automation Logic**
 Lead scoring, routing, product-usage triggers, churn detection, and expansion intelligence.
 
-### ✓ **BI Semantic Layers**
+### 4. **BI Semantic Layers**
 Consumption-ready marts used across Looker, Looker Studio, and executive reporting.
 
-### ✓ **Reverse ETL Output Models**
+### 5. **Reverse ETL Output Models**
 Ready for syncing into HubSpot, Salesforce, MAP, CS tools, or internal applications.
 
 ---
