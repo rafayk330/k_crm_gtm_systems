@@ -24,7 +24,7 @@ K CRM’s revenue engine relies on accurate, integrated, and scalable data acros
 - Workflow automation logic for Sales, CS, Marketing, and Product teams  
 - Documentation for data governance, metric definitions, and system integrations  
 
-This repo is the **single source of truth** for GTM data architecture within K CRM.
+This repository is the **single source of truth** for GTM data architecture within K CRM.
 
 ---
 
@@ -40,8 +40,7 @@ kcrm-gtm-systems-architecture/
 │   ├── system-map.png
 │   ├── system-map.drawio
 │   ├── data-flow-diagrams/
-│   ├── erd/
-│   └── integration-contracts.md
+│   └──  erd/
 │
 ├── /bq-pipelines/
 │   ├── raw/
@@ -49,9 +48,7 @@ kcrm-gtm-systems-architecture/
 │   ├── core/
 │   ├── enr/
 │   ├── retl/
-│   ├── marts/
-│   ├── orchestration/
-│   └── udf/
+│   └── marts/
 │
 ├── /data-models/
 │   ├── raw-definitions/
